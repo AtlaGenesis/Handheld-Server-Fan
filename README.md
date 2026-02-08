@@ -3,7 +3,7 @@ A Guide to Turn a 8025 Server Fan INTO A POWERFUL HANDHELD FAN!!
 
 # Another Handhedl fan?
 As you know, I already made a handheld fan a while ago, but why am I making another one? and using a server fan? why not other stuffs?
-The Answer is simple: Efficiency, Transparency, and Air Volume.
+The Answer is simple: Efficiency, Power, and Air Volume.
 
 A small 5cm duct at 12000 RPM may feel powerful, yes it is powerful, but does it have the same air volume as an 8cm free flowing fan? no, it has less CFM (cubic feet minute) than a 8cm fan, and you know what server fan has better than other type of fans? Yes, power and efficiency, servers are quite hot, they operate at a high temperature, that's why server fans are used, it's used to cool servers like Hypixel for a very very very long periods of time, server fans are made to run for months even years without stopping at high speeds, which your pc fan might not survive, and they are also powerful at the same time, cooling your aternos servers with 70 mods, not only that, they are incredibly efficient, most consuming less than 14 watts of power like the san ace 40 while other very high power ones operate at 37W.
 
