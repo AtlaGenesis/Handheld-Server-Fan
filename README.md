@@ -1,6 +1,12 @@
 # Handheld-Server-Fan
 A Guide to Turn a 8025 Server Fan INTO A POWERFUL HANDHELD FAN!!
 
+# Previews
+full stuffs
+<img width="743" height="432" alt="image" src="https://github.com/user-attachments/assets/c5fc9d41-428a-4613-b38e-beb43dc25570" />
+everything fits inside the case
+<img width="305" height="496" alt="image" src="https://github.com/user-attachments/assets/906c5dc3-48af-44d4-b487-2070aef794d5" />
+
 # Features
 The 8cm diameter ensures a high air volume to cool larger areas faster than most commercial ducted fan.
 This fan only consumes 9W at its highest speed, and even though it's less than 10W, the power the server-grade fan provides is outperforming most commercial fans both in power and efficiency
