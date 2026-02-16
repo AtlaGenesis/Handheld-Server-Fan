@@ -49,14 +49,14 @@ https://shopee.co.id/potensiometer-potentiometer-potensio-10k-rv09-12.5mm-RV-09-
 8. 2s BMS 8A
 https://shopee.co.id/BMS-2S-8A-8.4V-Kecil-Lithium-Ion-Battery-Management-Protection-Board-i.189362216.23186933050?xptdk=74b4783d-0dac-4115-a661-93727fa9cd63
 
-9. 2x Brass Heat Inserts M2x3.2x3mm
-https://shopee.co.id/Spiral-Brass-Nut-Insert-Spiral-brass-knur-insert-M2-M3-M4-(HARGA-PER-10PCS)-i.22308752.24463664962?extraParams=%7B"display_model_id"%3A241030022014%2C"model_selection_logic"%3A2%7D&sp_atk=2c49b41d-7b8c-4830-9559-15994b7996c4&xptdk=2c49b41d-7b8c-4830-9559-15994b7996c4
+9. 4x M2x10 (10 MOQ, 30 cents total)
+https://shopee.co.id/Screw-M2-M2*10-M2x10-Baut-2mm-Black-Carbon-Steel-height-10mmBolt-Philips-Cross-Round-Besi-Metal-i.15677260.6033568460?extraParams=%7B"display_model_id"%3A51864225232%2C"model_selection_logic"%3A3%7D&sp_atk=534213b3-caaf-4e85-837f-0affb9887c5a&xptdk=534213b3-caaf-4e85-837f-0affb9887c5a
 
-10. 2x M2x8 304
-https://shopee.co.id/Baut-JP-M2x8-Stainless-304-Phillips-Head-Screw-M2*8-Sekrup-2mm-x-8mm-M2-Obeng-Plus-SS304-i.96037146.24243396278?extraParams=%7B"display_model_id"%3A147767420559%2C"model_selection_logic"%3A2%7D&sp_atk=dd8ffde6-b27c-4116-adb2-96d69a08c828&xptdk=dd8ffde6-b27c-4116-adb2-96d69a08c828
-
-11. 4x M3x12 304
+10. 4x M3x12 304 (10 MOQ, 12 cents total)
 https://shopee.co.id/Baut-JP-M3X12-Machine-Screw-M3-X-12-Pan-Head-3X12-Baut-Obeng-Kepala-Bulat-Stainless-SS304-i.1293427543.26567956564?extraParams=%7B"display_model_id"%3A247053286844%2C"model_selection_logic"%3A3%7D&sp_atk=9e05fb8f-de30-4243-8536-9d2b8c6afe2a&xptdk=9e05fb8f-de30-4243-8536-9d2b8c6afe2a
 
-12. 4x brass heat inserts m3x5x3
+11. 4x brass heat inserts m3x5x3 (5 MOQ, 42 cents total)
 https://shopee.co.id/Insert-Nut-M-3-Knurled-Mur-Tanam-3-4-5-6-8-10-mm-Kuningan-Hot-Melt-3D-Print-M3-Twill-i.448878545.25973020314?extraParams=%7B"display_model_id"%3A147256386280%2C"model_selection_logic"%3A3%7D&sp_atk=86e52921-19bb-4fa4-9b52-579dd5893d27&xptdk=86e52921-19bb-4fa4-9b52-579dd5893d27
+
+12. 4x M2 nut (20 MOQ, 18 cents total)
+https://shopee.co.id/Tamiya-Silver-Nuts-M2-per-pcs-Mur-Silever-drat-2-mm-i.3086070.23315441929?extraParams=%7B"display_model_id"%3A98560920657%2C"model_selection_logic"%3A3%7D&sp_atk=bab32065-328e-44c7-bbca-39e35735ce33&xptdk=bab32065-328e-44c7-bbca-39e35735ce33
