@@ -53,3 +53,6 @@ https://shopee.co.id/Insert-Nut-M-3-Knurled-Mur-Tanam-3-4-5-6-8-10-mm-Kuningan-H
 
 12. 4x M2 nut (20 MOQ, 18 cents total)
 https://shopee.co.id/Tamiya-Silver-Nuts-M2-per-pcs-Mur-Silever-drat-2-mm-i.3086070.23315441929?extraParams=%7B"display_model_id"%3A98560920657%2C"model_selection_logic"%3A3%7D&sp_atk=bab32065-328e-44c7-bbca-39e35735ce33&xptdk=bab32065-328e-44c7-bbca-39e35735ce33
+
+13. 4 Pin JST Connector (2 MOQ 48 cents total)
+https://shopee.co.id/Socket-Kabel-JST-SM-4p-4-Pin-Wire-Sambungan-Konektor-Kabel-Male-Female-i.342972164.22755093244?extraParams=%7B"display_model_id"%3A138744600112%2C"model_selection_logic"%3A3%7D&sp_atk=18972638-1e2c-41c5-82aa-e6c268296418&xptdk=18972638-1e2c-41c5-82aa-e6c268296418
