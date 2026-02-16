@@ -14,20 +14,6 @@ This fan only consumes 9W at its highest speed, and even though it's less than 1
 The knob lets you adjust the speed based on your needs.
 The type C charger lets you charge with your phone charger
 
-# Another Handhedl fan?
-As you know, I already made a handheld fan a while ago, but why am I making another one? and using a server fan? why not other stuffs?
-The Answer is simple: Efficiency, Power, and Air Volume.
-
-A small 5cm duct at 12000 RPM may feel powerful, yes it is powerful, but does it have the same air volume as an 8cm free flowing fan? no, it has less CFM (cubic feet minute) than a 8cm fan, and you know what server fan have that other fans don't?
-
-Power and efficiency.
-
-servers are quite hot, they operate at a high temperature, PC fans doesn't provide much cooling, and they have weak static pressure, while a server fan is designed by engineers to have maximum static pressure, speed, and air volume to cool servers to the deepest components, and that's why server fans are used.
-
-it's also used to cool servers like Hypixel for a very very very long periods of time, server fans are made to run for months even years without stopping at high speeds, which your pc fan might not survive, and they are also powerful at the same time, cooling your aternos servers with 70 mods, not only that, they are very efficient at cooling, most consuming less than 14 watts of power while being powerful, while other very high power ones operate at 37W (insane power).
-
-This AVC Taiwan 8025 fan runs on 12v and 0.7A, which is 8.4W, on 2s 21700 you're looking at 224 minutes of straight runtime on maximum power (including the 85% step up loss), that's got way more runtime than most commercial handheld fans, I've built a DIY fan before using a normal PC fan, and at 2W it's already making my skin cold in just a few seconds of use.
-
 
 
 # BOM:
