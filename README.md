@@ -8,6 +8,10 @@ full stuffs
 everything fits inside the case
 <img width="305" height="496" alt="image" src="https://github.com/user-attachments/assets/906c5dc3-48af-44d4-b487-2070aef794d5" />
 
+fully assembled
+<img width="613" height="476" alt="image" src="https://github.com/user-attachments/assets/e8b0c5cf-4ed6-4608-9427-bc21ee917ebc" />
+
+
 # Features
 The 8cm diameter ensures a high air volume to cool larger areas faster than most commercial ducted fan.
 This fan only consumes 9W at its highest speed, and even though it's less than 10W, the power the server-grade fan provides is outperforming most commercial fans both in power and efficiency
