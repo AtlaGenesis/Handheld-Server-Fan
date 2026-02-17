@@ -14,7 +14,12 @@ This fan only consumes 9W at its highest speed, and even though it's less than 1
 The knob lets you adjust the speed based on your needs.
 The type C charger lets you charge with your phone charger
 
-
+# 3D printing things: 
+Print with the orientation the same as you see on the file!
+ABS 30% infill gyroid
+0.4 nozzle
+0.2 layer height
+BLACK COLOUR
 
 # BOM:
 
