@@ -19,14 +19,16 @@ The knob lets you adjust the speed based on your needs.
 The type C charger lets you charge with your phone charger
 
 # 3D printing things: 
-Print with the orientation the same as you see on the file!
-All printed using Black ASA
-All 0.4mm Nozzle
-All 0.16/0.12 Layer height
-All 40% infill
-All 6 or more Walls Perimeter
-Slow print speed
-Fan at 10%
+- Print with the orientation the same as you see on the file!
+- All printed using Black ASA
+- All 0.4mm Nozzle
+- All 0.16/0.12 Layer height
+- All 40% infill
+- All 6 or more Walls Perimeter
+- Slow print speed
+- Fan at 0%
+- 50 degrees C enclosure (if you have)
+
 
 # BOM:
 
