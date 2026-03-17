@@ -2,10 +2,14 @@
 A Guide to Turn a 4056 Server Fan INTO A POWERFUL HANDHELD FAN!!
 
 # Previews
-fully assembled
+### Fully assembled
+<img width="1920" height="1080" alt="Altis SDR 1" src="https://github.com/user-attachments/assets/a5fb3270-d40c-4683-a46a-29dc2481a1dd" />
+<img width="1920" height="1080" alt="Altis SDR 2" src="https://github.com/user-attachments/assets/1701ce5f-902f-4197-8a2d-f111f45ee904" />
 
 
-everything fits inside the case
+### Everything fits inside the case
+
+<img width="458" height="516" alt="image" src="https://github.com/user-attachments/assets/0e6333cc-4fa9-4852-b6e4-c53aa1e8abb3" />
 
 
 
