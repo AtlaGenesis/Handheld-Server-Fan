@@ -60,14 +60,14 @@ https://shopee.co.id/BMS-2S-8A-8.4V-Kecil-Lithium-Ion-Battery-Management-Protect
 8. 4x M2x10 (10 MOQ, 30 cents total)
 https://shopee.co.id/Screw-M2-M2*10-M2x10-Baut-2mm-Black-Carbon-Steel-height-10mmBolt-Philips-Cross-Round-Besi-Metal-i.15677260.6033568460?extraParams=%7B"display_model_id"%3A51864225232%2C"model_selection_logic"%3A3%7D&sp_atk=534213b3-caaf-4e85-837f-0affb9887c5a&xptdk=534213b3-caaf-4e85-837f-0affb9887c5a
 
-9. 4x M3x12 304 (10 MOQ, 12 cents total)
-https://shopee.co.id/Baut-JP-M3X12-Machine-Screw-M3-X-12-Pan-Head-3X12-Baut-Obeng-Kepala-Bulat-Stainless-SS304-i.1293427543.26567956564?extraParams=%7B"display_model_id"%3A247053286844%2C"model_selection_logic"%3A3%7D&sp_atk=9e05fb8f-de30-4243-8536-9d2b8c6afe2a&xptdk=9e05fb8f-de30-4243-8536-9d2b8c6afe2a
+9. 10 set of m3x15 and m3 nut (12 cents total)
+https://shopee.co.id/(10-SET)-MUR-BAUT-JP-M3X10-MUR-3MM-PANJANG-BAUT-10MM-i.1564064068.53701015197?xptdk=d2e0d25c-f2ba-4921-ab20-521311753e61
 
-10. 4x brass heat inserts m3x5x3 (5 MOQ, 42 cents total)
-https://shopee.co.id/Insert-Nut-M-3-Knurled-Mur-Tanam-3-4-5-6-8-10-mm-Kuningan-Hot-Melt-3D-Print-M3-Twill-i.448878545.25973020314?extraParams=%7B"display_model_id"%3A147256386280%2C"model_selection_logic"%3A3%7D&sp_atk=86e52921-19bb-4fa4-9b52-579dd5893d27&xptdk=86e52921-19bb-4fa4-9b52-579dd5893d27
-
-11. 4x M2 nut (20 MOQ, 18 cents total)
+10. 4x M2 nut (20 MOQ, 18 cents total)
 https://shopee.co.id/Tamiya-Silver-Nuts-M2-per-pcs-Mur-Silever-drat-2-mm-i.3086070.23315441929?extraParams=%7B"display_model_id"%3A98560920657%2C"model_selection_logic"%3A3%7D&sp_atk=bab32065-328e-44c7-bbca-39e35735ce33&xptdk=bab32065-328e-44c7-bbca-39e35735ce33
 
-12. 4 Pin JST Connector (2 MOQ 48 cents total)
+11. 4 Pin JST Connector (2 MOQ 48 cents total)
 https://shopee.co.id/Socket-Kabel-JST-SM-4p-4-Pin-Wire-Sambungan-Konektor-Kabel-Male-Female-i.342972164.22755093244?extraParams=%7B"display_model_id"%3A138744600112%2C"model_selection_logic"%3A3%7D&sp_atk=18972638-1e2c-41c5-82aa-e6c268296418&xptdk=18972638-1e2c-41c5-82aa-e6c268296418
+
+12. Small Slide Switch 
+https://shopee.co.id/Slide-Switch-SPDT-1P2T-Saklar-Geser-Kecil-Mini-Toggle-3-Pin-PCB-4mm-i.1093272634.21085961858?xptdk=8377b048-6e51-46f9-bee4-56d1445fc7de
