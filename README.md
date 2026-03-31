@@ -12,8 +12,8 @@ A Guide to Turn a 4056 Server Fan INTO A POWERFUL HANDHELD FAN!!
 <img width="458" height="516" alt="image" src="https://github.com/user-attachments/assets/0e6333cc-4fa9-4852-b6e4-c53aa1e8abb3" />
 
 
-
-
+### Wiring Diagrammmmm
+To be continued yal pls wait I need 2 more dayZ
 
 
 # Features
@@ -57,8 +57,8 @@ https://shopee.co.id/potensiometer-potentiometer-potensio-10k-rv09-12.5mm-RV-09-
 7. 2s BMS 8A
 https://shopee.co.id/BMS-2S-8A-8.4V-Kecil-Lithium-Ion-Battery-Management-Protection-Board-i.189362216.23186933050?xptdk=74b4783d-0dac-4115-a661-93727fa9cd63
 
-8. 4x M2x10 (10 MOQ, 30 cents total)
-https://shopee.co.id/Screw-M2-M2*10-M2x10-Baut-2mm-Black-Carbon-Steel-height-10mmBolt-Philips-Cross-Round-Besi-Metal-i.15677260.6033568460?extraParams=%7B"display_model_id"%3A51864225232%2C"model_selection_logic"%3A3%7D&sp_atk=534213b3-caaf-4e85-837f-0affb9887c5a&xptdk=534213b3-caaf-4e85-837f-0affb9887c5a
+8. 4x M2x8 (5 MOQ 18 cents total)
+https://shopee.co.id/Baut-JP-M2x8-Stainless-304-Phillips-Head-Screw-M2*8-Sekrup-2mm-x-8mm-M2-Obeng-Plus-SS304-i.96037146.24243396278?xptdk=95afd284-d5a6-4889-bd94-edc500055c5d
 
 9. 10 set of m3x15 and m3 nut (12 cents total)
 https://shopee.co.id/(10-SET)-MUR-BAUT-JP-M3X10-MUR-3MM-PANJANG-BAUT-10MM-i.1564064068.53701015197?xptdk=d2e0d25c-f2ba-4921-ab20-521311753e61
@@ -71,3 +71,12 @@ https://shopee.co.id/Socket-Kabel-JST-SM-4p-4-Pin-Wire-Sambungan-Konektor-Kabel-
 
 12. Small Slide Switch 
 https://shopee.co.id/Slide-Switch-SPDT-1P2T-Saklar-Geser-Kecil-Mini-Toggle-3-Pin-PCB-4mm-i.1093272634.21085961858?xptdk=8377b048-6e51-46f9-bee4-56d1445fc7de
+
+13. IRLZ44N Logic Level MOSFET (2 MOQ, 48 cents total)
+https://shopee.co.id/MOSFET-IRLZ44N-TO-220-MOSFETs-IRL-Z44N-IRLZ-44-N-IRLZ-44N-i.65450634.23978897717?extraParams=%7B"display_model_id"%3A29726184959%2C"model_selection_logic"%3A2%7D&sp_atk=45c97864-0b0b-4591-b32a-47e699384358&xptdk=45c97864-0b0b-4591-b32a-47e699384358
+
+14. 470 Ohm resistor
+https://shopee.co.id/10X-RESISTOR-470-OHM-1-4W-1-METAL-FILM-i.1078675148.22483412828?extraParams=%7B%22display_model_id%22%3A177913102753%2C%22model_selection_logic%22%3A3%7D&sp_atk=fb8b7b7d-6dda-42df-81f5-3afb92a463e8&xptdk=fb8b7b7d-6dda-42df-81f5-3afb92a463e8
+
+15. 10k resistor
+https://shopee.co.id/Resistor-10000-10K-10-K-10000R-Ohm-1-4-W-5-5pcs-pack-i.14183026.5815556375?extraParams=%7B"display_model_id"%3A51160481603%2C"model_selection_logic"%3A2%7D&sp_atk=626e046e-cc68-442b-bbd6-a70bb2a84dc3&xptdk=626e046e-cc68-442b-bbd6-a70bb2a84dc3
