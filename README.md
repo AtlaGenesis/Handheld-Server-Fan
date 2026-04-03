@@ -13,7 +13,8 @@ A Guide to Turn a 4056 Server Fan INTO A POWERFUL HANDHELD FAN!!
 
 
 ### Wiring Diagrammmmm
-![Uploading 20260403_100709.jpg…]()
+![WiringDiagram](https://github.com/user-attachments/assets/0b583b0f-9de8-4d11-91d7-bcd7f24588fb)
+
 
 
 
