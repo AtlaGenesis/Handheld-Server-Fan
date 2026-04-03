@@ -13,7 +13,8 @@ A Guide to Turn a 4056 Server Fan INTO A POWERFUL HANDHELD FAN!!
 
 
 ### Wiring Diagrammmmm
-To be continued yal pls wait I need 2 more dayZ
+![Uploading 20260403_100709.jpg…]()
+
 
 
 # Features
